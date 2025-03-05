@@ -1,1 +1,1 @@
-Some of these are scripts, some of these aren't
+I'm not gonna lie, some of these are scripts and some of these are some other kinds of things. :)
