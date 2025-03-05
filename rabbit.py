@@ -1,3 +1,7 @@
+# Python Script that opens itself repeadily while all counting up to a Trillion. 
+# May slow down a computer just a bit :)
+
+
 import subprocess
 import sys
 
